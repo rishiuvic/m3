@@ -1,7 +1,4 @@
-API
+CODERS
 ===
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
