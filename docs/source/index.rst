@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to M3 Modelling Platform's documentation!
 ===================================
 
 The M3 project delivers a sophisticated modelling platform that is built on the SPINE toolbox and contains pre-designed modelling workflows; these workflows can be used to simulate energy models to run in a pre-defined scenario by a simple plug-and-play feature. The platform supports models written in Python or Julia. 
